@@ -1,0 +1,1 @@
+Deployment: GitHub Pages (enable Pages from main branch) or Netlify drag-and-drop. Upload the `website/` contents to your host.
